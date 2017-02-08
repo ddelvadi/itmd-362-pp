@@ -7,6 +7,28 @@
   <link rel="stylesheet" media="screen" href="screen.css" />
 </head>
 <body>
+  <form method="get" action="#null">
+    <h1>Hackagram</h1>
 
+    <p>
+      Sign up to hackagram and share your moments with world
+    </p>
+
+    <ol>
+      <li id="email-input">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" />
+      </li>
+      <li id="phone-number-input">
+        <label for="phone-number">Phone Number</label>
+        <input type="number" inputmode="number" pattern="[0-9]*"name="phone-number" id="phone-number" /> 
+      </li>
+      <li id="date-of-birth-input">
+        <label for="date-of-birth">Date of Birth</label>
+        <input type="date" name="date-of-birth" id="date-of-bith" />
+      </li>
+    </ol>
+  </form>
 </body>
 </html>
+ 
