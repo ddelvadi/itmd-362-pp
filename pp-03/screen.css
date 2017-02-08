@@ -55,4 +55,21 @@ label {
   display: block;
 }
 
+html {
+  font-size: 1.25em; /*20px */
+  line-height: 1.25em;
+}
+
+h1 {
+  font-size: 1.25em;
+  text: solid;
+}
+
+form {
+  text-align: center;
+}
+
+#email-input {
+  padding-top: 1em;
+}
 
