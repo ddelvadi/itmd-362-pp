@@ -13,8 +13,8 @@ Your Rationale: Games tend to use bright Green colors. For example, Xbox and pla
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=52N0E0kw2V+MSUrNWVtqSVTr6WG
+Your Rationale: First thing comes in mind when we think of spring is green and blue colors
 
 3. A triadic color palette for styling the login page for a private messaging app
 
