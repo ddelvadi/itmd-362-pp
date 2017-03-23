@@ -24,6 +24,6 @@ Your Rationale: It is good to have lighter backgroud so it wont hurt people's ey
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=15A0J0kkokRapv0fEpyoZgeuuaV
+Your Rationale: This is the color they used on their website in their logo and button
 
