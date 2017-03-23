@@ -18,8 +18,9 @@ Your Rationale: First thing comes in mind when we think of spring is green and b
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=33M0J0k7FkH2TuW5ipg9Ugfehbp
+Your Rationale: It is good to have lighter backgroud so it wont hurt people's eyes and make it easier to contrast fonts color
+
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
