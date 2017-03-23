@@ -8,8 +8,8 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: paletton.com/#uid=52J0u0kllll0050aGdaw0tw++M0
+Your Rationale: Games tend to use bright Green colors. For example, Xbox and playstation
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
